@@ -1,0 +1,15 @@
+/* CSS effect for NavBar*/
+.active{
+    color: #fff;
+}
+
+/* CSS effect for image on Product_Components/Searchpage.js */
+.shrink img {
+    transition: 1s ease;
+}    
+.shrink img:hover{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: 1s ease;
+}

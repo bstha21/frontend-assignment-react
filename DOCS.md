@@ -15,7 +15,7 @@ Product Details Page
 # Note : Whenever the user direct clicks on product details page it sends 404 error.
 
 # About the Project:
-Online Store is  a e-commerce application that allows users to browse and search the products.
+Online Store is  a e-commerce web application that allows users to browse and search the products.
 
 # Technologies Used
 - Css
